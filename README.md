@@ -4,21 +4,17 @@
 
 ## About
 
-This library exposes a full, formatted list of air quality measurement stations around the UK.
+This library exposes a full, formatted list of air quality measurement stations around the UK, and helper methods for finding specific stations based on name or location.
 
 
 ## Installation
 
-    $ npm install defra-air-quality-js
+    $ npm install defra-air-quality-js --save
 
 
 ## Usage
 
-    const airQuality = require('defra-air-quality-js');
-
-    airQuality() // This returns a promise
-      .then(console.log) // Do what you want here
-      .catch(err => console.log(err)) // Handle any error here
+See the `./examples` directory for various use cases.
 
 
 ## Source

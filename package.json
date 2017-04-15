@@ -1,8 +1,8 @@
 {
   "name": "defra-air-quality-js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Formats and exposes the UK Defra Air Quality data",
-  "main": "app/helpers/get-uk-data.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
