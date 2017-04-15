@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>UK Air Pollution - Current levels</title>
+    <link>http://uk-air.defra.gov.uk/</link>
+    <language>en-gb</language>
+    <webMaster>info@uk-air.aeat.com</webMaster>
+    <lastBuildDate>Sat, 15 Apr 2017 12:50:41 +0000</lastBuildDate>
+    <image>
+      <url>http://uk-air.defra.gov.uk/images/resources/defra-logo.png</url>
+      <title>UK Air Pollution - Current levels</title>
+      <link>http://www.defra.gov.uk/</link>
+    </image>
+    <item>
+         <title>Auchencorth Moss</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=ACTH&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;47&acute;31.78&quot;N    3&deg;14&acute;34.44&quot;W <br />Current Pollution level is Low at index 3]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Bush Estate</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=BUSH&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;51&acute;44.21&quot;N    3&deg;12&acute;20.82&quot;W <br />Current Pollution level is Low at index 3]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Dumbarton Roadside</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=DUMB&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;56&acute;35.51&quot;N    4&deg;33&acute;35.03&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Grangemouth Moray</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GRA2&amp;view=last_hour</link>
+         <description><![CDATA[Location: 56&deg;00&acute;47.31&quot;N    3&deg;42&acute;39.00&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Greenock A8 Roadside</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GKA8&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;56&acute;38.68&quot;N    4&deg;44&acute;3.92&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Edinburgh St Leonards</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=ED3&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;56&acute;44.12&quot;N    3&deg;10&acute;55.87&quot;W <br />Current Pollution level is Low at index 3]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Glasgow Great Western Road</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GGWR&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;52&acute;19.34&quot;N    4&deg;16&acute;15.37&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Glasgow High Street</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GHSR&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;51&acute;39.37&quot;N    4&deg;14&acute;17.57&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Glasgow Kerbside</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GLA4&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;51&acute;33.01&quot;N    4&deg;15&acute;32.00&quot;W <br />Current Pollution level is Low at index 1]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Glasgow Townhead</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=GLKP&amp;view=last_hour</link>
+         <description><![CDATA[Location: 55&deg;51&acute;56.82&quot;N    4&deg;14&acute;37.07&quot;W <br />Current Pollution level is Low at index 3]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+         <title>Chesterfield Loundsley Green</title>
+         <link>http://uk-air.defra.gov.uk/data/site-data?f_site_id=CHLG&amp;view=last_hour</link>
+         <description><![CDATA[Location: 53&deg;14&acute;38.87&quot;N    1&deg;27&acute;17.81&quot;W <br />Current Pollution level is n/a]]> </description>
+         <pubDate>Sat, 15 Apr 2017 11:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
