@@ -9,6 +9,8 @@ module.exports.list = loadData;
  * Find a sepcific status by name
  */
 module.exports.findByName = name => {
+  if (!name) throw new Error('Please provide a name');
+
   return loadData().then(items => {
     return items.find(item => {
       return item.title === name;
@@ -20,6 +22,9 @@ module.exports.findByName = name => {
  * Find the nearest station based on latitude and longitude
  */
 module.exports.findByNearestLocation = (lat, long) => {
+  if (!lat) throw new Error('Please provide a latitude');
+  if (!long) throw new Error('Please provide a longitude');
+
   // Get the data
   return loadData().then(
     items =>
@@ -38,9 +43,7 @@ module.exports.findByNearestLocation = (lat, long) => {
         .sort((a, b) => {
           if (a.distanceFromSuppliedLocation < b.distanceFromSuppliedLocation)
             return -1;
-          if (a.distanceFromSuppliedLocation > b.distanceFromSuppliedLocation)
-            return 1;
-          return 0;
+          return 1;
         })
         // Take the first location, as this will be the closest.
         .slice(0, 1)[0]

@@ -8,5 +8,8 @@ module.exports = () => {
     .then(data => data.text()) // Get the text
     .then(parseXml) // Parse the XML
     .then(object => object.rss.channel[0].item) // Return the items
-    .then(items => items.map(formatItem)); // Map over each item and format
+    .then(items => items.map(formatItem)) // Map over each item and format
+    .catch(err => {
+      throw new Error('Unable to process DEFRA data, please try again');
+    });
 };
