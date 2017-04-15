@@ -2,7 +2,7 @@
 
 > A Node.js library for scraping, formatting and returning Defra Air Quality data
 
-[![Build Status](https://travis-ci.org/chrishutchinson/defra-air-quality-js.svg?branch=master)](https://travis-ci.org/chrishutchinson/defra-air-quality-js)
+[![Build Status](https://travis-ci.org/chrishutchinson/defra-air-quality-js.svg?branch=master)](https://travis-ci.org/chrishutchinson/defra-air-quality-js) [![codecov](https://codecov.io/gh/chrishutchinson/defra-air-quality-js/branch/master/graph/badge.svg)](https://codecov.io/gh/chrishutchinson/defra-air-quality-js)
 
 ## About
 
